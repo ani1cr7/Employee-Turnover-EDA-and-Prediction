@@ -6,7 +6,7 @@ SMOTE sampling technique is used to sample the data. Using the sampled data, dif
 
 Logistic regression, SVM, Random forests and Gradient Boosting were all applied to the sampled data and based on AUC, the performance of these algorithms were evaluated. 
 
-The dataset for this project is taken from Kaggle.com, however it is no longer available but I have put the dataset. Credits for the EDA goes to Randy Lao. 
+The dataset for this project is taken from Kaggle.com, however it is no longer available but I have put the dataset. This repository is based on the work of Randy Lao, I've modified and added EDA and machine learning techniques. 
 
 
 Table of Contents 
